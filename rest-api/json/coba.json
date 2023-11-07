@@ -1,11 +1,33 @@
-{ 
-    "nama" : "Arif Wicaksono",
-    "umur" : 21,
-    "nim" : 2000018229,
-    "lulus": true,
-    "hobby": [
-        "gaming",
-        "coding"       
-    ]
+[
+    { 
+        "nama" : "Arif Wicaksono",
+        "umur" : 21,
+        "nim" : 2000018229,
+        "lulus": true,
+        "hobby": [
+            "gaming",
+            "coding"       
+        ],
+        "pembimbing":{
+            "pembimbing1": "muslihudin",
+            "pembimbing2": "muslihudin"
+        }
+        
+    },
+    {
+        "nama" : "Aris Afrianto",
+        "umur" : 20,
+        "nim" : 2000018210,
+        "hobby": [
+            "makan",
+            "tidur"
+        ],
+        "pembimbing":{
+            "pembimbing1": "muslihudin",
+            "pembimbing2": "muslihudin"
+        }
+    }
 
-}
+
+
+]

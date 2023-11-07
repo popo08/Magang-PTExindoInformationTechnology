@@ -14,7 +14,7 @@
 // ];
 
 
-
+//mengubah array/object menjadi json
 $dbh = new PDO ('mysql:host=localhost;dbname=db_webservice', 'root',
 '');
 $db = $dbh->prepare('SELECT * FROM mahasiswa');
