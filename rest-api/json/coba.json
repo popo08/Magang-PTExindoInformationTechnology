@@ -1,0 +1,11 @@
+{ 
+    "nama" : "Arif Wicaksono",
+    "umur" : 21,
+    "nim" : 2000018229,
+    "lulus": true,
+    "hobby": [
+        "gaming",
+        "coding"       
+    ]
+
+}
